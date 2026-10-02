@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 Omar Mahmoud<br><br>💻 Web & App Developer in progress<br>🚀 Building projects, learning <br>       new technologies, and turning ideas into code.<br>📚 Business Administration × Technology<br>🌱 Currently focused on Front-End Development<br>📩 contact@itsomarmali.com<br><br><br>
 
 
